@@ -11,5 +11,5 @@ set art_commands (php artisan list | \
 for command in $art_commands
 	set art_cmd (echo -n "$command" | cut -f 1 )
 	set art_dsc (echo -n "$command" | cut -f 2 )
-	complete -c phpart -f -a $art_cmd -d $art_dsc
+	complete -c phpartisan -f -a $art_cmd -d $art_dsc
 end
