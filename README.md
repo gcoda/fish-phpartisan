@@ -1,6 +1,6 @@
 ## fish-phpartisan
 
-[//fishshell.com/](Fish shell) completion for artisan commands, even one you made yourself
+[Fish shell](//fishshell.com/) completion for artisan commands, even one you made yourself
 
 ### "Dirty" completions for php artisan commands.
 
