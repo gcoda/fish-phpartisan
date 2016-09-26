@@ -14,4 +14,6 @@ And by dirty i mean, made just for fun, with no deep thought put in to it
 fisher gcoda/fish-phpartisan
 ```
 
+There is also a [video](https://youtu.be/tyTbKKvaLlY)
+
 Poke me if you got any ideas
